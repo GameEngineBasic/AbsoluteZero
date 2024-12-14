@@ -10,9 +10,13 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
 		{
-			"Name": "Cargo",
-			"Enabled": false
-		}
+			"Name": "PixWinPlugin",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
 	]
 }
