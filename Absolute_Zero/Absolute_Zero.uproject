@@ -10,6 +10,9 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		{
+			"Name": "Cargo",
+			"Enabled": false
 		}
 	]
 }
